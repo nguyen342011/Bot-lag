@@ -1,0 +1,7 @@
+[32mclang[0m/stable 20.1.8 aarch64 [upgradable from: 20.1.7]
+[32mgdbm[0m/stable 1.26 aarch64 [upgradable from: 1.25]
+[32mlibcompiler-rt[0m/stable 20.1.8 aarch64 [upgradable from: 20.1.7]
+[32mlibllvm[0m/stable 20.1.8 aarch64 [upgradable from: 20.1.7]
+[32mlld[0m/stable 20.1.8 aarch64 [upgradable from: 20.1.7]
+[32mllvm[0m/stable 20.1.8 aarch64 [upgradable from: 20.1.7]
+[32mpython-pip[0m/stable 25.2 all [upgradable from: 25.1.1-1]
