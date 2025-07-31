@@ -4,7 +4,7 @@ import os
 import signal
 import subprocess
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-TOKEN = "8096602573:AAGupQ4zq6fn913bJWnQAab0jndP0SvNsN8"
+TOKEN = "7628583781:AAGSZamb3Jzu72Rw-BDR7aZwSAPiQbVDmJ4"
 bot = telebot.TeleBot(TOKEN)
 ALLOWED_USERS = [6750093226]
 vip_users = {6750093226: 30}
